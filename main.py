@@ -1,7 +1,4 @@
-b = 8
-print(b)
+for i in range(6):
+    print("Вечность")
 
-#работаем в ветке test
-print("Ветка test")
-print()
 

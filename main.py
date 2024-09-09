@@ -1,4 +1,3 @@
-for i in range(6):
-    print("Вечность")
+print("Проба дубль 3")
 
 
